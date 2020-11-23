@@ -5,4 +5,4 @@
 <p>🔓 I’m currently unlocking some knowledge on JavaScript, HTML, CSS, Node, that means I´m a student in process of turning into a junior dev.</p>
 <p>🚀 I’m currently enrolled on GoStack Bootcamp from Rocketseat</p>
 <p>⚡ Studing Technologies: Javascript, HTML, CSS, Node, Typescript.</p>
-<p>💀 Dying for an opportunity in the dev world.</p>
+
