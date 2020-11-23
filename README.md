@@ -6,3 +6,5 @@
 <p>🚀 I’m currently enrolled on GoStack Bootcamp from Rocketseat</p>
 <p>⚡ Studing Technologies: Javascript, HTML, CSS, Node, Typescript.</p>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="orcunsimsek"><a class="LI-simple-link" href='https://www.linkedin.com/in/orcunsimsek?trk=profile-badge'>Orcun Simsek</a></div>
+
